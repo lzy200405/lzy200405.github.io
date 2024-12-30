@@ -2,7 +2,7 @@
 layout: post
 title: 小恐龙快跑
 subtitle: C#程序
-gh-repo: daattali/beautiful-jekyll
+gh-repo: lzy200405/little_dinosaur_jump
 gh-badge: [star, fork, follow]
 tags: [C#]
 comments: true
